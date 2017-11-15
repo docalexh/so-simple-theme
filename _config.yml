@@ -1,9 +1,9 @@
 # Site wide configuration
 
-title: Site Title
+title: 500 words for the curious...
 locale: en_US
-description: Describe your website here.
-logo: site-logo.png
+description: Short articles from a collection of authors.
+logo: tftwhome.png
 search: true
 url: http://localhost:4000
 
