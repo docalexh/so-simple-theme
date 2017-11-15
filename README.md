@@ -1,4 +1,4 @@
-# thoughtfortheweek
+# 500 words for the curious...
 
 
 This is the github home for the blog thoughtfortheweek
