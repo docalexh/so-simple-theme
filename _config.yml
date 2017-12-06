@@ -1,5 +1,5 @@
 # main text of home
-name: What others know
+name: What others know...
 bio: Short articles on topics that interest us.
 
 # twitter summary info
@@ -12,11 +12,11 @@ picture: assets/images/tftwhome.png
 
 # If you want to include your resume, set to true
 # and specify source (external or local).
-resume: true
-resume-external: true
-resume-url: https://google.com/?q=my+resume
+#resume: true
+#resume-external: true
+#resume-url: https://google.com/?q=my+resume
 
-url: https://koppl.in/indigo
+url: https:docalexh.github.io
 # your url: http://USERNAME.github.io
 
 permalink: /:title/
@@ -42,7 +42,7 @@ twitter: mytwitter
 # linkedin: mylinkedin
 # youtube: myyoutube
 # spotify: myspotify
-github: docalexh.github.io
+github: https://docalexh.github.io/
 # lastfm: mylastfm
 # stackoverflow: 7044681/mystackoverflow
 # quora: userquora
@@ -50,7 +50,7 @@ github: docalexh.github.io
 medium: medium
 # vimeo: myvimeo
 # lanyrd: mylanyrd
-email: myemail@gmail.com
+email:
 
 authors:
     johndoe:
