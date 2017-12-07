@@ -13,7 +13,7 @@ Welcome to What others know...
 
 I suppose it began at dinner. A group of old University friends started story telling about their current work and interests. We decided that maybe if some of this was written down it might form a novel way to keep in touch, and have something interesting to read at the same time.
 
-The plan is to create a blog where a big network of friends can spend their commute reading short articles to see an idea through someone else's eyes.
+The plan is to create a blog where a big network of friends can spend their commute reading each other's articles rather than facebook.
 
 It might never spread further than the few that came up with the idea...but hey...it might...!
 
