@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About the Jekyll Theme
+title: A blog to share ideas...
 excerpt: "So Simple is a responsive Jekyll theme for your words and images."
 modified: 2014-08-08T19:44:38.564948-04:00
 image:
@@ -9,18 +9,12 @@ image:
   creditlink: http://wegraphics.net/downloads/free-ultimate-blurred-background-pack/
 ---
 
-Looking for a simple, responsive, theme for your Jekyll powered blog? Well look no further. Here be **So Simple Theme**, the follow up to [**Minimal Mistakes**](http://mmistakes.github.io/minimal-mistakes) --- by designer slash illustrator [Michael Rose](http://mademistakes.com).
+Welcome to What others know...
 
-## So Simple Theme is all about:
+I suppose it began at dinner. A group of old University friends started story telling about their current work and interests. We decided that maybe if some of this was written down it might form a novel way to keep in touch, and have something interesting to read at the same time.
 
-* Responsive templates. Looking good on mobile, tablet, and desktop.
-* Gracefully degrading in older browsers. Compatible with Internet Explorer 9+ and all modern browsers.
-* Minimal embellishments and subtle animations.
-* Optional large feature images for posts and pages.
-* [Custom 404 page]({{ site.url }}/404.html) to get you started.
-* [Simple site search](https://github.com/christian-fei/Simple-Jekyll-Search)
-* Support for Disqus Comments
+The plan is to create a blog where a big network of friends can spend their commute reading short articles to see an idea through someone else's eyes.
 
-<a markdown="0" href="{{ site.url }}/theme-setup" class="btn">Install So Simple Theme</a>
+It might never spread further than the few that came up with the idea...but hey...it might...!
 
-[^1]: Example: *domain.com/category-name/post-title*
+---
