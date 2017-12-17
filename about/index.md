@@ -21,8 +21,8 @@ It might never spread further than the few that came up with the idea...but hey.
 
 [Advice for writers]
 
-Short, ~500 word articles on a topic of your choice.
-+ 1 the name of your tune for the week. (attach youtube link)
-Send to: forcuriousminds@gmail.com.
+- Short, ~500 word articles on a topic of your choice.
+- 1 the name of your tune for the week. (attach youtube link)
+- Send to: forcuriousminds@gmail.com.
 
 ---
